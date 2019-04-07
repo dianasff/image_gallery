@@ -1,0 +1,25 @@
+body {
+	padding-top: 70px;
+}
+#header{
+	color: white;
+	background-image: linear-gradient(-90deg, #7FAD87, #7F87AD);
+	font-family: 'Playfair Display', serif;
+}
+
+.navbar{
+	background-image: linear-gradient(-90deg, #7FADAD, #7FADAD);
+	 
+}
+.navbar-nav>li>a{
+	color: white;
+	font-family: 'Playfair Display', serif;
+}
+.navbar-brand{
+	color: white;
+	font-family: 'Playfair Display', serif;
+}
+
+.thumbnail{
+	max-width: 100%;
+}
